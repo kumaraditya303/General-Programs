@@ -1,0 +1,6 @@
+Flask>=1.0.2
+Flask_Mail>=0.9.1
+pyFirmata>=1.1.0
+chempy>=0.7.9
+Werkzeug>=0.14.1
+mysql_connector_repackaged>=0.3.1
