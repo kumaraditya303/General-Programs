@@ -4,15 +4,15 @@
 #include <Servo.h>
 
 
-#define WLAN_SSID       "AndroidAPB9CF"             // Your SSID
-#define WLAN_PASS       "rahul12345"        // Your password
+#define WLAN_SSID       ""             // Your SSID
+#define WLAN_PASS       ""        // Your password
 
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME  "nodemcuiot"
-#define AIO_KEY       "aio_khWQ050mrFBrYoEwEAbAGQJgQx2W"
+#define AIO_USERNAME  ""
+#define AIO_KEY      ""
 Servo myservo;
 /************ Global State (you don't need to change this!) ******************/
 // Create an ESP8266 WiFiClient class to connect to the MQTT server.
